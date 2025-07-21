@@ -13,7 +13,7 @@ Fanart of the badge "Hundred of many" in the game Doors in roblox
 ## It doesn't work
 ![](Drawings/Itdoesntwork.png)
 <br>
-Fanart of the entity A-90 (jumpscare version) in the game Doors in roblox
+Fanart of the entity A-90 (jumpscare version) in the game Doors in roblox. Reference to when I tried to use the item called "cruzifix" against the entity A-90 without knowing that the item is ineffective to this specific entity.
 ## Red shark v4
 ![](Drawings/Redsharkv4.png)
 <br>
@@ -59,4 +59,6 @@ Chess set for my first chess engine
 ![](Drawings/chess-set-2/qb.png)
 ![](Drawings/chess-set-2/kw.png)
 ![](Drawings/chess-set-2/kb.png)
+![](Drawings/chess-set-2/square_w.png)
+![](Drawings/chess-set-2/square_b.png)
 Chess set for my second chess engine
